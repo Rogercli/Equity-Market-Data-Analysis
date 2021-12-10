@@ -34,6 +34,9 @@ latest one to the table.
 **Step 5**. Pipeline Orchestration:
 * Uses Databricks scheduler and chaining of notebooks to orechestrate workflow 
 
+## Diagram
+![image](https://user-images.githubusercontent.com/84752424/145529169-db87074b-68f0-459a-9c1f-5f8f8cab3c88.png)
+
 
 ## Directory Details
 - **Data**: Source data from exchanges, which need to first be stored into Azure Blob Containers
